@@ -1,0 +1,5 @@
+
+
+# Application Listeners
+org.springframework.context.ApplicationListener=\
+com.study.boot.config.CustomPropertiesFileApplicationListener
